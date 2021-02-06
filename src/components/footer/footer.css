@@ -1,0 +1,16 @@
+.footer-adjustment {
+    background: peachpuff!important;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+@media (max-width: 400px) {
+    .footer-adjustment {
+        background: rgb(233, 175, 125)!important;
+        width: 100%;
+        color: white;
+        text-align: center;
+        min-height: 100vh;
+    }
+  }
